@@ -1,0 +1,8 @@
+prefix=/home/kranti/catkin_ws/install
+
+Name: begin
+Description: Description of begin
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kranti/catkin_ws/install/lib 
+Requires: 
